@@ -1,3 +1,4 @@
 Checker
 python development 1
 python zmidyfukowany na remote
+kolejna zmiana na Remote

@@ -1,1 +1,2 @@
 git _ignore
+Rędziniowa 6

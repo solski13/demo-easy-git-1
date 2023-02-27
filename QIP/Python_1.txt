@@ -1,2 +1,3 @@
 Checker
 python development 1
+python zmidyfukowany na remote

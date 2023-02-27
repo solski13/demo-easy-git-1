@@ -5,3 +5,5 @@ exclude 25
 include some additional file
 
 trlalalal
+Dodanie pewnych  zmian w konfigu
+Dodanie kolejnych zmian

@@ -1,5 +1,5 @@
 git _ignore
-ul. Główna
+ul. Główna 51
 Zrębice Pierwsze
 linia dodana
 42-256

@@ -1,8 +1,11 @@
 git _ignore
+Zupełnie coś innego
+
+
+
 ul. Główna 51
 Zrębice Pierwsze
-linia dodana
-42-256
+-256
 woj slaskie
 powiat częstochowski
 

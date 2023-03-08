@@ -1,11 +1,4 @@
 git _ignore
 Zupełnie coś innego
-
-
-
-ul. Główna 51
-Zrębice Pierwsze
--256
-woj slaskie
-powiat częstochowski
+Jan NOwak
 
